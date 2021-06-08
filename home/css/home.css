@@ -1,5 +1,13 @@
+.visible{
+    display: none;
+}
+
 .crd-h{
     height: 200px;
+}
+
+.title-logo{
+    font-size: 40px;
 }
 
 .image_l-1{
@@ -47,9 +55,21 @@
     transform: scale(1.1);
 }
 
+.vri{
+        justify-content:flex-end ;
+        align-items:flex-end ;
+}
+
 @media screen and (max-width: 500px){
 
     .crd-h{
         height: 150px;
+    }
+    .title-logo{
+        font-size: 45px;
+    }
+    .vri{
+        justify-content:flex-end ;
+        align-items:center ;
     }
 }
