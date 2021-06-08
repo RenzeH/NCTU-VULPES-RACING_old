@@ -1,0 +1,49 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+html{
+    height: 100vh;
+}
+
+a:hover {
+    color: black;
+}
+
+/* nav */
+
+.header-logo{
+    font-size: 45px;
+}
+
+.title{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.nav{
+    margin-top: 3rem;
+}
+
+.foot{
+    height: 10vh;
+}
+
+p{
+    font-family: 'Noto Serif TC', serif;
+    text-align: justify;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 2;
+}
+
+@media screen and (max-width: 500px){
+
+    body{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .nav{
+        margin-top: 1.5rem;
+    }
+}
