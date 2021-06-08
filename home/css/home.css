@@ -2,7 +2,7 @@
     height: 200px;
 }
 
-.image_l{
+.image_l-1{
     width: 100%;
     background-image: url(/home/img/BLOG.jpg);
     background-repeat: no-repeat;
@@ -10,9 +10,24 @@
     background-position: 50% 45% ;
 }
 
-.image_r{
+.image_r-1{
     width: 100%;
     background-image: url(/home/img/PH.jpg);
+    background-size: cover;
+    background-position: center left;
+}
+
+.image_l-2{
+    width: 100%;
+    background-image: url(/home/img/spo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 45% ;
+}
+
+.image_r-2{
+    width: 100%;
+    background-image: url(/home/img/sto.jpg);
     background-size: cover;
     background-position: center left;
 }
