@@ -6,9 +6,6 @@
     height: 600px;
 }
 
-.hide{
-    display: none;
-}
 
 .image_xl{
     width: 100%;
@@ -49,9 +46,6 @@
 
 @media screen and (max-width: 500px){
 
-    .big{
-        display: block;
-    }
 
     .crd-h{
         height: 150px;
@@ -61,10 +55,4 @@
         height: 150px;
     }
 
-    .image_xl{
-        width: 100%;
-        background-image: url(/project/img/2-3.jpg);
-        background-size: cover;
-        background-position: center;
-    }
 }

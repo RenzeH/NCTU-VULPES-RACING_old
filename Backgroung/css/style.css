@@ -1,0 +1,46 @@
+.crd-h{
+    height: 200px;
+}
+
+
+.image_xl{
+    width: 100%;
+    background-image: url(/Backgroung/img/request_quote_white_24dp.svg);
+    background-repeat: no-repeat;
+    background-size: 85px;
+    background-position: center;
+}
+
+.image_1{
+    width: 100%;
+    background-image: url(/Backgroung/img/record_voice_over_white_24dp.svg);
+    background-repeat: no-repeat;
+    background-size: 85px;
+    background-position: center;
+}
+
+.image_2{
+    width: 100%;
+    background-image: url(/Backgroung/img/low_priority_white_24dp.svg);
+    background-repeat: no-repeat;
+    background-size: 85px;
+    background-position: center;
+}
+
+
+
+.zoom{
+    transition: all 1s;
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}
+
+@media screen and (max-width: 500px){
+
+    .crd-h{
+        height: 150px;
+    }
+
+}
