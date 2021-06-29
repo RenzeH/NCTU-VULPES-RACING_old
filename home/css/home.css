@@ -10,6 +10,20 @@
     font-size: 40px;
 }
 
+.about_fsae{
+    font-size: 16px;
+}
+
+.fsae{
+    background-color:black;
+    height: 10vh;
+    width: 100%;
+    background-image: url(https://www.fsaeonline.com/cdsweb/SharedComponents/fsaeonline.com/img/formula_r_wht_spot.png);
+    background-repeat: no-repeat;
+    background-size: 30vh;
+    background-position: 50% 50% ;
+}
+
 .image_l-1{
     width: 100%;
     background-image: url(/home/img/BLOG.jpg);

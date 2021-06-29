@@ -1,0 +1,38 @@
+.crd-h{
+    height: 200px;
+}
+
+.crd-hh{
+    height: 600px;
+}
+
+.fsae{
+    background-color:black;
+    height: 10vh;
+    width: 100%;
+    background-image: url(https://www.fsaeonline.com/cdsweb/SharedComponents/fsaeonline.com/img/formula_r_wht_spot.png);
+    background-repeat: no-repeat;
+    background-size: 30vh;
+    background-position: 50% 50% ;
+}
+
+.zoom{
+    transition: all 1s;
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}
+
+@media screen and (max-width: 500px){
+
+
+    .crd-h{
+        height: 150px;
+    }
+
+    .crd-hh{
+        height: 150px;
+    }
+
+}
