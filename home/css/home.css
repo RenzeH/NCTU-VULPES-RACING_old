@@ -24,6 +24,16 @@
     background-position: 50% 50% ;
 }
 
+.abo_us{
+    background-color:black;
+    height: 10vh;
+    width: 100%;
+    background-image: url(/AboutUS/img/NVR車隊設計.png);
+    background-repeat: no-repeat;
+    background-size: 20vh;
+    background-position: 50% 50% ;
+}
+
 .image_l-1{
     width: 100%;
     background-image: url(/home/img/BLOG.jpg);
