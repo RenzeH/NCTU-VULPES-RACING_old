@@ -1,0 +1,36 @@
+.crd-h{
+    height: 40vh;
+}
+
+.crd-hh{
+    height: 40vh;
+}
+
+.bud{
+    background-color:white;
+    background-image: url(/building/img/BUILDING.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center ;
+}
+
+.zoom{
+    transition: all 1s;
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}
+
+@media screen and (max-width: 500px){
+
+
+    .crd-h{
+        height: 40vh;
+    }
+
+    .crd-hh{
+        height: 40vh;
+    }
+
+}
