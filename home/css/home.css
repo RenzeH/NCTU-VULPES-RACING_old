@@ -6,6 +6,10 @@
     height: 200px;
 }
 
+.crd-text{
+    height: 30px;
+}
+
 .crd-hh{
     height: 58vh;
 }
@@ -16,6 +20,16 @@
 
 .about_fsae{
     font-size: 16px;
+}
+
+.wabay{
+    background-color:white;
+    height: 20vh;
+    width: 100%;
+    background-image: url(/home/img/wabay-dt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50% ;
 }
 
 .fsae{
@@ -129,5 +143,16 @@
     .vri{
         justify-content:flex-end ;
         align-items:center ;
+    }
+
+    .wabay{
+        background-color:white;
+        height: 100px;
+        width: 100%;
+        background-image: url(/home/img/wabay-mb.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:center center ;
+        margin-bottom: 30px;
     }
 }
