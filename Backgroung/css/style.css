@@ -5,7 +5,7 @@
 
 .image_xl{
     width: 100%;
-    background-image: url(/Backgroung/img/request_quote_white_24dp.svg);
+    background-image: url(../img/request_quote_white_24dp.svg);
     background-repeat: no-repeat;
     background-size: 85px;
     background-position: center;
@@ -13,7 +13,7 @@
 
 .image_1{
     width: 100%;
-    background-image: url(/Backgroung/img/record_voice_over_white_24dp.svg);
+    background-image: url(../img/record_voice_over_white_24dp.svg);
     background-repeat: no-repeat;
     background-size: 85px;
     background-position: center;
@@ -21,7 +21,7 @@
 
 .image_2{
     width: 100%;
-    background-image: url(/Backgroung/img/low_priority_white_24dp.svg);
+    background-image: url(../img/low_priority_white_24dp.svg);
     background-repeat: no-repeat;
     background-size: 85px;
     background-position: center;
