@@ -46,7 +46,7 @@
     background-color:black;
     height: 10vh;
     width: 100%;
-    background-image: url(/AboutUS/img/NVR-LOGO.png);
+    background-image: url(../AboutUS/img/NVR-LOGO.png);
     background-repeat: no-repeat;
     background-size: 20vh;
     background-position: 50% 50% ;
@@ -54,7 +54,7 @@
 
 .image_l-1{
     width: 100%;
-    background-image: url(/home/img/BLOG.jpg);
+    background-image: url(../home/img/BLOG.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 45% ;
@@ -62,7 +62,7 @@
 
 .image_r-1{
     width: 100%;
-    background-image: url(/home/img/PH.jpg);
+    background-image: url(../home/img/PH.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center left;
@@ -70,7 +70,7 @@
 
 .image_l-2{
     width: 100%;
-    background-image: url(/home/img/spo.jpg);
+    background-image: url(../home/img/spo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 45% ;
@@ -78,7 +78,7 @@
 
 .image_r-2{
     width: 100%;
-    background-image: url(/home/img/sto.jpg);
+    background-image: url(../home/img/sto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center left;
@@ -86,7 +86,7 @@
 
 .image_xl{
     width: 100%;
-    background-image: url(/home/img/RAC-CAR.jpg);
+    background-image: url(../home/img/RAC-CAR.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 85% ;
@@ -95,7 +95,7 @@
 
 .image_cfd{
     width: 100%;
-    background-image: url(/home/img/cfd.jpg);
+    background-image: url(../home/img/cfd.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center center ;
