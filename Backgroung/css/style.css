@@ -2,6 +2,14 @@
     height: 200px;
 }
 
+.image_xll{
+    width: 100%;
+    background-image: url(../img/verified_FILL0_wght400_GRAD0_opsz48.svg);
+    background-repeat: no-repeat;
+    background-size: 85px;
+    background-position: center;
+}
+
 
 .image_xl{
     width: 100%;
